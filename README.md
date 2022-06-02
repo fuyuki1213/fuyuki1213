@@ -1,1 +1,1 @@
-fuyuki's repo
+fuyuki's repository
